@@ -6,7 +6,7 @@ Like I just said, I'm James (he/him) and I'm a front-end architect. I like build
 
 I like focusing on core technologies (the basics, some would say). That foundation has enabled me to adapt quickly to other frameworks, CMSes, and build tools.
 
-### Foundational Skills
+### Foundational Expertise
 
 * HTML (semantics & accessibility)
 * CSS (with [PostCSS](https://postcss.org/) & [Sass](https://sass-lang.com/))
