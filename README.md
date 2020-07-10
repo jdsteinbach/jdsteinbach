@@ -1,30 +1,3 @@
-<style>
-.Box-body {
-  --color-text: #fed195;
-  --color-background: #312d2b;
-  --color-accent-1: #c64825;
-  --color-accent-2: #c85d27;
-  --color-accent-3: #c9852b;
-  --color-purple-dark: #321f44;
-
-  background-color: var(--color-purple-dark);
-  color: var(--color-text);
-}
-
-.Box-body::before {
-  content: "";
-  height: 3rem;
-  display: block;
-  background-image: linear-gradient(
-    180deg,
-    var(--color-accent-1) 33.33%,
-    var(--color-accent-2) 0,
-    var(--color-accent-2) 66.67%,
-    var(--color-accent-3) 0
-  );
-}
-</style>
-
 # Hi, I'm James Steinbach!
 
 Like I just said, I'm James (he/him) and I'm a front-end architect. I like building sites and web apps with *well-organized code*, *accessible UIs*, and *quick performance*.
