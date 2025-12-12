@@ -4,7 +4,7 @@ Like I just said, I'm James (he/him) and I'm a senior softwarefront-end architec
 
 ## Hire Me
 
-I'm actively looking for a new role now. Check out my [resume](https://jamessteinbach.com/resume) and [reach out](mailto:hi@jamessteinbach.com) if you're interested in working together!
+Actually, I'm happy in my role now. You can still check out my [resume](https://jamessteinbach.com/resume) and [reach out](mailto:hi@jamessteinbach.com) if you're interested in working together!
 
 ## Skills
 
@@ -37,6 +37,6 @@ If you're interested, I like doing lots of things besides development. (I firmly
 
 ## Get in Touch
 
-I tweet infrequently at [@jdsteinbach](https://twitter.com/jdsteinbach) and there's a [contact page on my blog](https://jdsteinbach.com/contact/).
+I post infrequently at [@jdsteinbach](https://twitter.com/jdsteinbach) and there's a [contact page on my blog](https://jdsteinbach.com/contact/).
 
 I try attending front-end conferences when I can, and I enjoy meeting Internet friends in person.
