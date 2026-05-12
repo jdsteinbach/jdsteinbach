@@ -1,10 +1,10 @@
 # Hi, I'm James Steinbach!
 
-Like I just said, I'm James (he/him) and I'm a senior softwarefront-end architect. I like building sites and web apps with *well-organized code*, *accessible UIs*, and *quick performance*.
+Like I just said, I'm James (he/him) and I'm a senior softwarefront-end architect. I like building sites and web apps with _well-organized code_, _accessible UIs_, and _quick performance_.
 
 ## Hire Me
 
-Actually, I'm happy in my role now. You can still check out my [resume](https://jamessteinbach.com/resume) and [reach out](mailto:hi@jamessteinbach.com) if you're interested in working together!
+You can check out my [resume](https://jamessteinbach.com/resume) and [reach out](mailto:hi@jamessteinbach.com) if you're interested in working together!
 
 ## Skills
 
@@ -12,28 +12,28 @@ I like focusing on core technologies (the basics, some would say). That foundati
 
 ### Foundational Expertise
 
-* HTML (semantics & accessibility)
-* CSS
-* JS
-* User Experience (design, contrast, typography)
+- HTML (semantics & accessibility)
+- CSS
+- JS
+- User Experience (design, contrast, typography)
 
 ### Tools I Like
 
-* [Eleventy](https://www.11ty.dev/)
-* [Stencil](https://stenciljs.com/)
-* [React](https://react.dev/)
-* [Vue](https://vuejs.org/)
-* [Svelte](https://svelte.dev/)
-* [PostCSS](https://postcss.org/) & [Sass](https://sass-lang.com/)
+- [Eleventy](https://www.11ty.dev/)
+- [Stencil](https://stenciljs.com/)
+- [React](https://react.dev/)
+- [Vue](https://vuejs.org/)
+- [Svelte](https://svelte.dev/)
+- [PostCSS](https://postcss.org/) & [Sass](https://sass-lang.com/)
 
 ## Hobbies
 
-If you're interested, I like doing lots of things besides development. (I firmly believe in doing excellent work during reasonable hours and protecting my non-work time.)
+If you're interested, I like doing lots of things besides development. I firmly believe in doing excellent work during reasonable hours and fully enjoying my non-work time!
 
-* 📚 I'm an avid reader.
-* 👨‍👩‍👧‍👦 I love spending time with my family.
-* 🧱 I enjoy [building LEGO](https://instagram.com/drbrickhaus) and solving jigsaw puzzles.
-* 🎮 I play a few video games and watch some TV.
+- 📚 I'm an avid reader.
+- 👨‍👩‍👧‍👦 I love spending time with my family.
+- 🧱 I enjoy [building LEGO](https://instagram.com/drbrickhaus) and solving jigsaw puzzles.
+- 🎮 I play a few video games and watch some TV.
 
 ## Get in Touch
 
