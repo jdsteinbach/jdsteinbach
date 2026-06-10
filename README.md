@@ -37,6 +37,6 @@ If you're interested, I like doing lots of things besides development. I firmly 
 
 ## Get in Touch
 
-I post infrequently at [@jdsteinbach](https://twitter.com/jdsteinbach) and there's a [contact page on my blog](https://jdsteinbach.com/contact/).
+I post infrequently on Bluesky [@jdsteinbach.com](https://bsky.app/profile/jdsteinbach.com) and there's a [contact page on my blog](https://jdsteinbach.com/contact/).
 
 I try attending front-end conferences when I can, and I enjoy meeting Internet friends in person.
